@@ -1,5 +1,5 @@
 module MyProject
 
-# Write your package code here.
+greet() = print("Hello World!")
 
-end
+end # module
