@@ -7,6 +7,7 @@ version = "1.0.0-DEV"
 Distributions = "31c24e10-a181-5473-b8eb-7969acd0382f"
 Expectations = "2fe49d83-0758-5602-8f54-1f90ad0d522b"
 LibGit2_jll = "e37daf67-58a4-590a-8e99-b0245dd2ffc5"
+Logging = "56ddb016-857b-54e1-b83d-db4d58db5568"
 Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
 
 [compat]
