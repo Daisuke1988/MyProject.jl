@@ -1,0 +1,3 @@
+[deps]
+Logging = "56ddb016-857b-54e1-b83d-db4d58db5568"
+MyProject = "a9f7c895-4dd4-40e1-9647-891da5b9f757"
