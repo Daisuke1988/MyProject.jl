@@ -1,6 +1,6 @@
 using MyProject
 using Test
 
-@testset "MyProject.jl" begin
-    # Write your tests here.
+@testset "MyProject.j" begin
+    @test foo(0) < 1E-16
 end
