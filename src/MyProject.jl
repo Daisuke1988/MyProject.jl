@@ -9,5 +9,9 @@ function foo(μ = 1., σ = 2.)
     return E(x -> sin(x))
 end
 
+function bar()
+    return 10
+end
+
 export foo
 end # module
